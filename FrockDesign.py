@@ -220,4 +220,4 @@ def generate_art(output_path="fractal_art.png"):
 
 
 if __name__ == "__main__":
-    generate_art("/mnt/user-data/outputs/fractal_art.png")
+    generate_art("fractal_art.png")
