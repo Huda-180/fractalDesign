@@ -6,4 +6,4 @@ using python
 the repo includes design for frock,the frock itself and python code in .py file 
 #TOOLS
 coding done using python in vscode 
-and design visualiztion through claude.ai and google.
+and design visualization through claude.ai and google.
